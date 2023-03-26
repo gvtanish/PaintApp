@@ -1,1 +1,2 @@
 # PaintApp
+<img src="pic">
